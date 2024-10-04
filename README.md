@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @znel2002
 - 👀 I’m a student based in Berlin, Germany
-- 🌱 I’m currently learning 
-- 📫 How to reach me... 
+- Internt at Cybele
+- 🌱 I’m currently learning C
+- 📫 How to reach me
 Telegram, Discord: @znel2002
 <!---
 znel2002/znel2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
